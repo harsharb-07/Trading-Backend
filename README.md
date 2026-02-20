@@ -44,6 +44,7 @@ trading-backend/
  └── pom.xml
 
  ```
+```
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/trading-backend.git
@@ -68,6 +69,7 @@ or
 
 http://localhost:8080/swagger-ui/index.html
 🧪 Testing APIs
+```
 
 You can test APIs using:
 
