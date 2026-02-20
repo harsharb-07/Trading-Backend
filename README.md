@@ -28,6 +28,7 @@ Backend service for managing trading operations including user management, trans
 
 📑 Swagger (OpenAPI)
 
+
 📂 Project Structure
 trading-backend/
  ├── src/main/java/com/example/tradingbackend
@@ -41,6 +42,8 @@ trading-backend/
  ├── src/main/resources
  │    ├── application.properties
  └── pom.xml
+
+ 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/trading-backend.git
